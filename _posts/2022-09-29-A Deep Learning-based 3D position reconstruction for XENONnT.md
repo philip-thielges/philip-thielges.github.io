@@ -5,7 +5,7 @@ image: "/own_projects/tpc.png"
 tags: [Deep Learning, CNN, RNN, Data Science, Computer Vision, Python]
 ---
 
-In this project I build & optimise a Convolutional Neural Network to reconstruct the three-dimensional position of an event within our detector that is used in the experiment XENONnT. I will also compare it with further model architectures, e. g. Recurrent Neural Networks. 
+In this project I build & optimise different kinds of neural networks to reconstruct the three-dimensional position of an event within our detector that is used in the experiment XENONnT. The goal is especially the reconstruction of the depth of an event in the detector, because this can be determined by conventional methods only by the time difference of 2 signals, a more detailed description will be given later.
 
 # Table of contents
 
