@@ -9,7 +9,9 @@ plugins:
 #-------------------------------
 # General Site Settings
 title: Philip Siddhartha Thielges
-description: "Hi I'm Philip, and I'm a Data Scientist.  My portfolio focuses on interesting projects I've recently undertaken, with a strong emphasis on business impact. Please visit my Github & LinkedIn pages (or download my Resume) by using the links below!"
+description: "Hi I'm Philip, and I'm a Data Scientist. I have a bachelor's degree in physics, in which I specialized particularly in deep learning.  
+"My portfolio focuses on interesting projects I've recently undertaken, with a strong emphasis on business impact. 
+"Please visit my Github & LinkedIn pages (or download my Resume) by using the links below!"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
