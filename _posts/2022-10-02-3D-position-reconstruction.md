@@ -25,7 +25,26 @@ ___
 
 ### Dark Matter <a name="overview-darkmatter"></a>
 
-What is the universe made of?
+The universe is thought to consist of three different types of matter: baryonic matter, dark
+matter, and dark energy. Most of the matter in the universe, according to standard gravitational theory, is in a form that is unknown to us and does not emit enough light to have been detected by current instrumentation. Researchers from around the world are working to
+finally uncover the properties and possible physical candidates of this dark matter. Evidence
+for dark matter exists from the large to the small scale, here one instance will be taken up
+in more detail.
+
+The stellar mass-luminosity relation can be applied to determine the mass M of a main
+sequence star as a function of its mere luminosity L via the relation L ∝ Mα with α ≈ 3
+for large masses and α ≈ 4 for small masses [9]. However, if one measures the rotational
+velocity of stars as a function of their distance from the galactic center, the mass-luminosity
+relation gives a much smaller mass than that obtained by applying Kepler’s laws. As an
+instance, the galaxy NGC 3198, to be seen in figure 2.1, can be mentioned: For large radii
+r, an almost constant value was measured for the rotation velocity v, the predicted decay
+according to Kepler’s law, following v ∝ 1, could not be observed. Consequently, there
+must be mass present in the galaxy, which does not contribute to the radiation emission. If
+one looks at typical rotation curves of galaxies, this dark matter cannot be explained only
+by a black hole in the center of the galaxies [29]. Rather, it can be concluded that it must be
+spatially distributed in a galaxy, nearly uniformly. If a dark matter halo is introduced, these
+observations can be physically reproduced. This halo neither absorbs nor emits radiation, it
+dominates the total mass in the universe.
 
 <br>
 <br>
