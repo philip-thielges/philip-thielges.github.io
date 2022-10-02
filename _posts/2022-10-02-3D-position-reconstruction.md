@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Deep Learning-Based 3D Position Reconstruction **STILL IN WORK**
+title: A Deep Learning-Based 3D Position Reconstruction for XENONnT **STILL IN WORK**
 image: "/own_projects/tpc.png"
 tags: [Deep Learning, CNN, Data Science, Computer Vision, Python, RNN, LSTM, Regression]
 ---
@@ -46,17 +46,15 @@ spatially distributed in a galaxy, nearly uniformly. If a dark matter halo is in
 observations can be physically reproduced. This halo neither absorbs nor emits radiation, it
 dominates the total mass in the universe.
 
-<figure>
-    <img src="/img/own_projects/tpc.png" width="200" height="100">
-    <figcaption>A single track trail outside of Albuquerque, New Mexico.</figcaption>
-</figure>
-
 <br>
 <br>
 
 ### XENONnT Experiment <a name="overview-experiment"></a>
 
-Test2
+<figure>
+    <img src="/img/own_projects/tpc.png">
+    <figcaption>Working principle of the TPC.</figcaption>
+</figure>
 
 <br>
 <br>
@@ -72,9 +70,6 @@ ___
 # Simulation-Driven Models  <a name="data-overview"></a>
 
 TEST
-
-<br>
-![alt text](/img/own_projects/classic_comp_x.pdf "CNN Fruit Classification Samples")
 
 ___
 
