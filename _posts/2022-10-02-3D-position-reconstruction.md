@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Deep Learning-Based 3D Position Reconstruction STILL IN WORK
+title: A Deep Learning-Based 3D Position Reconstruction **STILL IN WORK**
 image: "/own_projects/tpc.png"
 tags: [Deep Learning, CNN, Data Science, Computer Vision, Python, RNN, LSTM, Regression]
 ---
