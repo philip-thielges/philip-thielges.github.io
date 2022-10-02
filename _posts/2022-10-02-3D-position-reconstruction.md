@@ -53,24 +53,24 @@ TEST
 ![alt text](/img/own_projects/classic_comp_x.pdf "CNN Fruit Classification Samples")
 
 ___
-<br>
+
 # Model Selection and Training  <a name="training"></a>
 
 TEST
 
 ___
-<br>
+
 # Conventional Method for Position Reconstruction -- Comparison <a name="comparison"></a>
 
 TEST
 ___
-<br>
+
 # Performances for different Depths & Amplitudes <a name="diff-amp"></a>
 
 TEST
 
 ___
-<br>
+
 # Conclusion and Outlook <a name="conclusion"></a>
 
 
